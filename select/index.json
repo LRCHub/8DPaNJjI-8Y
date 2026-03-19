@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Stand by me, Stand by you.",
+  "base_artist": "平井 大",
+  "createdAt": "2026-03-19T17:33:22.131285Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stand by me, Stand by you.",
+      "artist": "HIRAIDAI",
+      "has_synced": true,
+      "path": "select/01_Stand_by_me,_Stand_by_you._HIRAIDAI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stand by me, Stand by you.",
+      "artist": "HIRAIDAI",
+      "has_synced": true,
+      "path": "select/02_Stand_by_me,_Stand_by_you._HIRAIDAI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stand by me, Stand by you.",
+      "artist": "HIRAIDAI",
+      "has_synced": false,
+      "path": "select/03_Stand_by_me,_Stand_by_you._HIRAIDAI.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stand by me, Stand by you. [LP23]",
+      "artist": "HIRAIDAI",
+      "has_synced": true,
+      "path": "select/04_Stand_by_me,_Stand_by_you._[LP23]_HIRAIDAI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stand by Me (Stand by You)",
+      "artist": "Small Faces",
+      "has_synced": false,
+      "path": "select/05_Stand_by_Me_(Stand_by_You)_Small_Faces.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stand by me, Stand by you.",
+      "artist": "HIRAIDAI",
+      "has_synced": true,
+      "path": "select/06_Stand_by_me,_Stand_by_you._HIRAIDAI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stand by me, Stand by you.",
+      "artist": "HIRAI DAI",
+      "has_synced": false,
+      "path": "select/pl_01_Stand_by_me,_Stand_by_you._HIRAI_DAI.txt"
+    }
+  ]
+}
